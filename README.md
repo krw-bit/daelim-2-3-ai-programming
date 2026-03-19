@@ -6,4 +6,5 @@
 - github 설정 등
 
 ## 3주차
-- 
+- 파이썬 기초
+- pandas import
