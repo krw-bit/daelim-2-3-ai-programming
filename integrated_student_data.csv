@@ -1,0 +1,19 @@
+student_id,name,email,study_hours,attendance,assignment_score,quiz_avg,project_score,pass_fail
+B01,  Kim Hana  ,HANA.KIM@DAELIM.AC.KR,1.5,55,48,52,45,0
+B02,Lee Min,lee.min@daelim.ac.kr ,2.0,62,58,57,54,0
+B03, Park Jun,park.jun@email.com,2.5,68,61,63,60,0
+B04,Choi Seo,CHOI.SEO@DAELIM.AC.KR,3.0,72,65,67,66,1
+B05,Jung Woo,jung.woo@daelim.ac.kr,3.5,74,72,70,69,1
+B06,Kang Yul,kang.yul@daelim.ac.kr,4.0,78,75,76,73,1
+B07,Song Ara, song.ara@daelim.ac.kr,4.5,80,82,79,81,1
+B08,Yoon Sol,yoon.sol@email.com,5.0,83,85,81,84,1
+B09,Han Bin,HAN.BIN@DAELIM.AC.KR,5.5,86,88,84,86,1
+B10,Lim Jae,lim.jae@daelim.ac.kr,6.0,88,90,87,89,1
+B11,Oh Nuri,oh.nuri@daelim.ac.kr,6.5,91,92,90,91,1
+B12,Moon Rae,moon.rae@daelim.ac.kr,7.0,94,95,93,94,1
+B13,Ko Da,ko.da@email.com,3.0,90,60,62,58,0
+B14,Na Rin,narin@daelim.ac.kr,4.0,58,85,77,78,0
+B15,Baek Ho,baek.ho@daelim.ac.kr,5.0,70,70,65,72,1
+B16,Shin Yu,shin.yu@DAELIM.AC.KR,6.0,76,68,72,70,1
+B17,Jang I,jang.i@daelim.ac.kr,2.0,84,52,55,50,0
+B18,Ryu On,wrong-email,4.5,66,73,69,68,0
